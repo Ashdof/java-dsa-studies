@@ -16,7 +16,7 @@ package com.dsa_lessons.chapter_1;
 public class BinarySearch {
 	public static void main(String[] args) {
 		int[] scores = {1, 2, 3, 4, 5, 6};
-		int search = 10;
+		int search = 5;
 		int position = binarySearch(scores, search);
 		System.out.printf("Found %d at index %d%n", search, position);
 	}
