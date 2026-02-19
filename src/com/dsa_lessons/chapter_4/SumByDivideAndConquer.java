@@ -1,5 +1,9 @@
 package com.dsa_lessons.chapter_4;
 
+/**
+ * Exercise 4.1
+ * Compute sum by recursion
+ */
 public class SumByDivideAndConquer {
 	public static void main(String[] args) {
 		int[] ages = {2, 3, 4, 5, 6, 7, 8, 9};
