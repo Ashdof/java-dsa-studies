@@ -64,8 +64,8 @@ public class QuickSortDemo {
 	/**
 	 * Swap the positions of two elements in the array
 	 * @param data the array
-	 * @param a the first element
-	 * @param b the second element
+	 * @param a the index of the first element
+	 * @param b the index of the second element
 	 */
 	private static void swap(int[] data, int a, int b) {
 		int temp = data[a];
